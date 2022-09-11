@@ -1,4 +1,4 @@
-Step to run
+Steps to run
 
 1. Navigate to the parent project folder using  terminal
 
@@ -11,7 +11,7 @@ Step to run
 
 3. If its the first time please install all libraries using pip
 
-4. Else try running the command `py -m streamlit run [filename].py`
+4. Else try running the command `py -m streamlit run stocks.py`
    and press enter afterwards and wait.
 
 5. The 'process' will open a web page automatically
